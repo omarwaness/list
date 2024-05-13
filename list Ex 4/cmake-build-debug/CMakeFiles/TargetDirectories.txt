@@ -1,0 +1,3 @@
+C:/Users/o9s9w/Desktop/School/clion code/list Ex 4/cmake-build-debug/CMakeFiles/list_Ex_4.dir
+C:/Users/o9s9w/Desktop/School/clion code/list Ex 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/o9s9w/Desktop/School/clion code/list Ex 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
